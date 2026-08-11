@@ -17,7 +17,7 @@
         - capaz de captar qualquer sinal eletromagnético 
 
 ## Pares Trançados 
-      ![Pares Trançados](ParesTrancados.jpg)
+![Pares Trançados](./Imagens/ParesTrancados.jpg)
 
     - são trançados para evitar interferencia eletromagnética 
     - podem se estender por quilometros de distancia 
