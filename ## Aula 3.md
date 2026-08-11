@@ -17,7 +17,7 @@
         - capaz de captar qualquer sinal eletromagnético 
 
 ## Pares Trançados 
-    ![Pares trançados](https://imdtec.imd.ufrn.br/assets/imagens/sistemas-de-conectividade/sistemas_conectividade_a02_f06_l.jpg)
+      ![Pares Trançados](ParesTrancados.jpg)
 
     - são trançados para evitar interferencia eletromagnética 
     - podem se estender por quilometros de distancia 
